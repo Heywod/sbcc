@@ -1,0 +1,16 @@
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+.nav-name {
+  font-family: 'Niconne', serif;
+}
+
+.hero-img {
+  max-height: 70vh;
+  width: 100%;
+}
+
+.side-img {
+  border-radius: 10px;
+}

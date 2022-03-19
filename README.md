@@ -1,2 +1,0 @@
-# sbcc
-SBCC Website
